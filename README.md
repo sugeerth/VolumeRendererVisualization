@@ -1,5 +1,7 @@
 # Volume Renderer #
 
+[![VolRen2.jpg](https://s11.postimg.org/vnooeirtf/Vol_Ren2.jpg)](https://postimg.org/image/xs91fltfz/)
+
 ### Volume Renderer Class at UC Davis by Prof. Kwan Liu Ma ###
 
 a) A basic volume renderer that renders the datasets in .raw format with follwoing criterion
