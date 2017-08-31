@@ -4,7 +4,7 @@
 
 ### Volume Renderer Class at UC Davis by Prof. Kwan Liu Ma ###
 
-a) A basic volume renderer that renders the datasets in .raw format with follwoing criterion
+a) A basic volume renderer that renders the datasets in .raw format with following criterion
 
 1) Select a volume dataset
 
