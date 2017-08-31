@@ -1,6 +1,6 @@
 # Volume Renderer #
 
-[![VolRen2.jpg](https://s11.postimg.org/vnooeirtf/Vol_Ren2.jpg)](https://postimg.org/image/xs91fltfz/)
+[![Vol_Ren.jpg](https://s26.postimg.org/fwxdn71pl/Vol_Ren.jpg)](https://postimg.org/image/alih2hfmt/)
 
 ### Volume Renderer Class at UC Davis by Prof. Kwan Liu Ma ###
 
